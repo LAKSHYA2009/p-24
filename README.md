@@ -1,2 +1,2 @@
-# p-24
-GEOLOGIST
+# Geologist
+Geologist Project
